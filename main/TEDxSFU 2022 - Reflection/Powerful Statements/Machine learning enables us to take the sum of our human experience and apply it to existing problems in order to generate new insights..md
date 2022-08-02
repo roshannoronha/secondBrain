@@ -1,0 +1,2 @@
+[[Powerful Statements]]
+#powerfulStatements 

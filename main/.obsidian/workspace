@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "cd5ab8b1c4356331",
+    "type": "split",
+    "children": [
+      {
+        "id": "149942891b33c8c7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TEDxSFU 2022 - Reflection/Ideas/Social Inequalities/Healthcare and Social Services.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fdf5ee200db6083a",
+    "type": "split",
+    "children": [
+      {
+        "id": "eefd4f25cbb3be72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98da1d4a2111ee43",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9575590fae3dd52e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ideas",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3593d94f3d01b3a2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 628.5
+  },
+  "right": {
+    "id": "af5e485198fc43bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4eb6801cad1f89ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d1559694ab7852b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "7bce66e606bf6180",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TEDxSFU 2022 - Reflection/Ideas/Social Inequalities/Healthcare and Social Services.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a10b7c7e2a16aead",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TEDxSFU 2022 - Reflection/Ideas/Social Inequalities/Healthcare and Social Services.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f7644100891f358",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "784fe71e9b3b19ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TEDxSFU 2022 - Reflection/Ideas/Social Inequalities/Healthcare and Social Services.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 2040.5
+  },
+  "active": "149942891b33c8c7",
+  "lastOpenFiles": [
+    "TEDxSFU 2022 - Reflection/TEDxSFU.md",
+    "TEDxSFU 2022 - Reflection/Ideas/Social Inequalities/Exacerbate Existing Social Inequalities.md",
+    "TEDxSFU 2022 - Reflection/Powerful Statements/Context is not only asking the right questions but knowing which questions to asks and when to ask them..md",
+    "Lab Automation.md",
+    "Useful Articles.md",
+    "TEDxSFU 2022 - Reflection/Core Ideas/Core Ideas.md",
+    "TEDxSFU 2022 - Reflection/Core Ideas/Automation will change our society and it is through relection that we can determine whether this change will be positive for all or just for a select few..md",
+    "TEDxSFU 2022 - Reflection/Talk Versions/3 Min Pitch.md",
+    "DeepMind and Playing Go/Protein Folding.md",
+    "TEDxSFU 2022 - Reflection/Ideas/What is Bias.md"
+  ]
+}
