@@ -1,4 +1,4 @@
-[[Automation will change our society and it is through relection that we can determine whether this change will be positive for all or just for a select few.]]: Automation will change our society and it is through reflection that we can determine the direction of this change. 
+[[Automation will change our society and it is through reflection that we can determine whether this change will be positive for all or just for a select few.]]: Automation will change our society and it is through reflection that we can determine the direction of this change. 
 
 When you hear the word automation what comes to mind? Maybe it's a dystopian future like the matrix? Or perhaps it's like the Jetsons where robots and flying cars coexist?
 

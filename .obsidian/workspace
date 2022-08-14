@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "cd46134b9e54c8c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "841442fd647ff5df",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-08-13.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "718b9038238cc889",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c05c69bb7e23660",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f85314f9fb3b88a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5c0741bcc3322497",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c4aa4cacf69904a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b37a78a8e6d2872",
+    "type": "split",
+    "children": [
+      {
+        "id": "cce5dca350712d9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8da232e785de0ddc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "f57ca514f3a4ca4c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-08-13.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "22ca7449bc5df04a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2022-08-13.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c172d9a0b0e3a6ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e1efce4adec49b0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2022-08-13.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326.5,
+    "collapsed": true
+  },
+  "active": "841442fd647ff5df",
+  "lastOpenFiles": [
+    "3 Min Draft.md",
+    "Coaching Session 1.md",
+    "main/TEDxSFU 2022 - Reflection/Talk Versions/3 Min Pitch.md",
+    "Automation will change our society and it is through reflection that we can determine whether this change will be positive for all or just for a select few..md",
+    "main/TEDxSFU 2022 - Reflection/Talk Versions/Initial Pitch.md",
+    "main/TEDxSFU 2022 - Reflection/Core Ideas/Automation will change our society and it is through relection that we can determine whether this change will be positive for all or just for a select few..md",
+    "main/TEDxSFU 2022 - Reflection/Core Ideas/Core Ideas.md",
+    "main/TEDxSFU 2022 - Reflection/Ideas/What Does Automation Look Like.md",
+    "2022-08-13.md",
+    "main/TEDxSFU 2022 - Reflection/Ideas/Social Inequalities/Healthcare and Social Services.md"
+  ]
+}

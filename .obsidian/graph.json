@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#tedxsfu",
+      "color": {
+        "a": 1,
+        "rgb": 15080990
+      }
+    },
+    {
+      "query": "tag:#powerfulStatements",
+      "color": {
+        "a": 1,
+        "rgb": 15769600
+      }
+    },
+    {
+      "query": "tag:#socialIssue",
+      "color": {
+        "a": 1,
+        "rgb": 11008512
+      }
+    },
+    {
+      "query": "tag:#coolUses",
+      "color": {
+        "a": 1,
+        "rgb": 14355434
+      }
+    },
+    {
+      "query": "tag:#coreIdeas",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#ideas",
+      "color": {
+        "a": 1,
+        "rgb": 41200
+      }
+    },
+    {
+      "query": "tag:#talkVersions",
+      "color": {
+        "a": 1,
+        "rgb": 1110016
+      }
+    },
+    {
+      "query": "tag:#newPerspectives",
+      "color": {
+        "a": 1,
+        "rgb": 16768256
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.123115808823529,
+  "repelStrength": 7.4561095505618,
+  "linkStrength": 0.193979779411765,
+  "linkDistance": 375,
+  "scale": 0.7023319615912205,
+  "close": true
+}
