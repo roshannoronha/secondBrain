@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-08-13.md",
+            "file": "3 Min Draft.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3b37a78a8e6d2872",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-08-13.md",
+                "file": "3 Min Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-08-13.md",
+                "file": "3 Min Draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-08-13.md"
+                "file": "3 Min Draft.md"
               }
             }
           }
@@ -140,6 +141,7 @@
   },
   "active": "841442fd647ff5df",
   "lastOpenFiles": [
+    "2022-08-13.md",
     "3 Min Draft.md",
     "Coaching Session 1.md",
     "main/TEDxSFU 2022 - Reflection/Talk Versions/3 Min Pitch.md",
@@ -148,7 +150,6 @@
     "main/TEDxSFU 2022 - Reflection/Core Ideas/Automation will change our society and it is through relection that we can determine whether this change will be positive for all or just for a select few..md",
     "main/TEDxSFU 2022 - Reflection/Core Ideas/Core Ideas.md",
     "main/TEDxSFU 2022 - Reflection/Ideas/What Does Automation Look Like.md",
-    "2022-08-13.md",
     "main/TEDxSFU 2022 - Reflection/Ideas/Social Inequalities/Healthcare and Social Services.md"
   ]
 }
