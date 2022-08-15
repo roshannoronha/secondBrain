@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -62,18 +62,25 @@
         "a": 1,
         "rgb": 16768256
       }
+    },
+    {
+      "query": "tag:#coachingNotes",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
     }
   ],
-  "collapse-display": true,
-  "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.3779445298828,
+  "lineSizeMultiplier": 2.9006681868802,
   "collapse-forces": false,
-  "centerStrength": 0.123115808823529,
-  "repelStrength": 7.4561095505618,
-  "linkStrength": 0.193979779411765,
-  "linkDistance": 375,
-  "scale": 0.7023319615912205,
+  "centerStrength": 0.326403987908999,
+  "repelStrength": 16.7036113909954,
+  "linkStrength": 0.256827703240176,
+  "linkDistance": 500,
+  "scale": 0.811273617853576,
   "close": true
 }

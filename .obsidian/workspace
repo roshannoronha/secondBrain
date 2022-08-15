@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "841442fd647ff5df",
+        "id": "a8979f366045480e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3 Min Draft.md",
+            "file": "Technological Due Process.md",
             "mode": "source",
             "source": false
           }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Min Draft.md",
+                "file": "Technological Due Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Min Draft.md",
+                "file": "Technological Due Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Min Draft.md"
+                "file": "Technological Due Process.md"
               }
             }
           }
@@ -136,20 +136,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5,
+    "width": 539.104248046875,
     "collapsed": true
   },
-  "active": "841442fd647ff5df",
+  "active": "a8979f366045480e",
   "lastOpenFiles": [
-    "2022-08-13.md",
-    "3 Min Draft.md",
-    "Coaching Session 1.md",
-    "main/TEDxSFU 2022 - Reflection/Talk Versions/3 Min Pitch.md",
-    "Automation will change our society and it is through reflection that we can determine whether this change will be positive for all or just for a select few..md",
-    "main/TEDxSFU 2022 - Reflection/Talk Versions/Initial Pitch.md",
-    "main/TEDxSFU 2022 - Reflection/Core Ideas/Automation will change our society and it is through relection that we can determine whether this change will be positive for all or just for a select few..md",
-    "main/TEDxSFU 2022 - Reflection/Core Ideas/Core Ideas.md",
-    "main/TEDxSFU 2022 - Reflection/Ideas/What Does Automation Look Like.md",
-    "main/TEDxSFU 2022 - Reflection/Ideas/Social Inequalities/Healthcare and Social Services.md"
+    "main/Useful Articles.md",
+    "main/TEDxSFU 2022 - Reflection/Ideas/Social Inequalities/Healthcare and Social Services.md",
+    "No Fly List.md",
+    "main/TEDxSFU 2022 - Reflection/Ideas/What is an Algorithm.md",
+    "main/TEDxSFU 2022 - Reflection/Talk Versions/3 Min Draft.md",
+    "main/Lab Automation.md",
+    "Space Exploration.md",
+    "main/TEDxSFU 2022 - Reflection/Ideas/Used in Cool Ways/Being used in cool ways.md",
+    "main/TEDxSFU 2022 - Reflection/Coaching Notes/Coaching Session 1.md",
+    "main/TEDxSFU 2022 - Reflection/Coaching Notes/Coaching Notes.md"
   ]
 }

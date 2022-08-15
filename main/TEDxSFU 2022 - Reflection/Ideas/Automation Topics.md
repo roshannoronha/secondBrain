@@ -9,5 +9,5 @@
 
 
 
-[[Automation will change our society and it is through relection that we can determine whether this change will be positive for all or just for a select few.]]
+[[Core Ideas]]
 #ideas 
