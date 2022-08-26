@@ -3,9 +3,44 @@
 ## Intro
 At the end of a very long week you decide you're finally going to take some time for yourself. So you put your phone on silent, make some popcorn and open up Netflix. And then begins the labourous process of figuring out what to watch. Selling Sunset? Nope, you binge watched both seasons. The Witcher? Well watching Henry Cavill run in tight pants is too much stress. Unsure about what to watch, you go with what Netflix recommends and you end up loving the show. Turns out it's the perfect amount of story and trashyness.
 
-Contrary to popular belief, there isn't a tiny man inside your tv that provides suggestions. Instead, Netflix uses specialized software that is capable of understanding your specific preferences and then that same software uses that information to predict what you would want to watch. In short, Netflix has automated the process of providing reccomendations by removing humans from the decision making process. 
+Contrary to popular belief, there isn't a tiny man inside your tv that provides suggestions. Instead, Netflix uses specialized software that is capable of understanding your specific preferences and then that same software uses that information to predict what you would want to watch. In short, Netflix has automated the process of providing reccomendations.
 
-If that example of automation surprised you, you're not alone. Our understanding of automation is usually based on the idea of big machines doing repetive tasks.  Turns out, it's a lot like Netflix reccomending what to watch -  human independant software that is capable of influencing our behavior and actions.
+If that example of automation surprised you, you're not alone. We've heard for years now about this thing called automation and how it's going to take our jobs. But, and be honest here, raise your hand if you have no clue what that means. This, is why I'm here.
+
+You see, automation is already affecting you. Automated systems determine who get's hired, the people that qualify for healthcare or don't qualify and even who is put in the no fly list. Because we're unclear about what automation is, it means that it's hard for us to have a say in how this technology is used. 
+
+And so, today, we're not only going to define what automation is. We're going to see how it's being used. And the end result is that you are empowered to have a say in whether this technology will be positive for just a select few or for everyone.
+
+END
+
+
+
+
+
+
+And as with any technology it has the potential to be both a change for good - helping us to discover new therapies for diseases or bad - by exacerbating existing social inequalities. And so it's vitially important that we gain Our uncertainty around automation 
+
+
+And I'm going to provide you with the t
+
+And the time to have this say is right now
+
+There's a disconnect between what we think automation is and 
+
+
+
+when we look around nothing really seems to have changed. 
+
+
+raise your hand if you have no idea what this means.
+
+
+
+
+Our understanding of automation is usually based on the idea of big machines doing repetive tasks. 
+
+
+Turns out, it's a lot like Netflix reccomending what to watch -  human independant software that is capable of influencing our behavior and actions.
 
 Why should you care?
 
