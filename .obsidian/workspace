@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5032558441162
+    "width": 306.5032558441162,
+    "collapsed": true
   },
   "right": {
     "id": "3b37a78a8e6d2872",
@@ -87,7 +88,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/TEDxSFU 2022 - Reflection/Talk Versions/3 Min Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main/TEDxSFU 2022 - Reflection/Talk Versions/3 Min Draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,23 +125,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "main/TEDxSFU 2022 - Reflection/Talk Versions/3 Min Draft.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 182.39212036132812,
+    "width": 427.39208984375,
     "collapsed": true
   },
-  "active": "75be2f818947103c",
+  "active": "8da232e785de0ddc",
   "lastOpenFiles": [
+    "main/TEDxSFU 2022 - Reflection/Talk Versions/3 Min Draft.md",
     "main/TEDxSFU 2022 - Reflection/Core Ideas/Automation will change our society and it is through relection that we can determine whether this change will be positive for all or just for a select few..md",
     "main/TEDxSFU 2022 - Reflection/Talk Versions/3 Min Pitch.md",
-    "main/TEDxSFU 2022 - Reflection/Talk Versions/3 Min Draft.md",
     "Technological Due Process.md",
     "main/Useful Articles.md",
     "main/TEDxSFU 2022 - Reflection/Ideas/Social Inequalities/Healthcare and Social Services.md",
