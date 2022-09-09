@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "main/TEDxSFU 2022 - Reflection/Talk Versions/3 Min Draft.md",
+            "file": "main/TEDxSFU 2022 - Reflection/Talk Versions/8 Min Draft.md",
             "mode": "source",
             "source": false
           }
@@ -88,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "main/TEDxSFU 2022 - Reflection/Talk Versions/8 Min Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "main/TEDxSFU 2022 - Reflection/Talk Versions/8 Min Draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,27 +127,29 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "main/TEDxSFU 2022 - Reflection/Talk Versions/8 Min Draft.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 427.39208984375,
+    "width": 1264.5,
     "collapsed": true
   },
-  "active": "8da232e785de0ddc",
+  "active": "75be2f818947103c",
   "lastOpenFiles": [
+    "main/Lab Automation.md",
+    "main/TEDxSFU 2022 - Reflection/Talk Versions/8 Min Draft.md",
+    "main/TEDxSFU 2022 - Reflection/Ideas/Automation Topics.md",
     "main/TEDxSFU 2022 - Reflection/Talk Versions/3 Min Draft.md",
     "main/TEDxSFU 2022 - Reflection/Core Ideas/Automation will change our society and it is through relection that we can determine whether this change will be positive for all or just for a select few..md",
     "main/TEDxSFU 2022 - Reflection/Talk Versions/3 Min Pitch.md",
     "Technological Due Process.md",
     "main/Useful Articles.md",
     "main/TEDxSFU 2022 - Reflection/Ideas/Social Inequalities/Healthcare and Social Services.md",
-    "No Fly List.md",
-    "main/TEDxSFU 2022 - Reflection/Ideas/What is an Algorithm.md",
-    "main/Lab Automation.md",
-    "Space Exploration.md"
+    "No Fly List.md"
   ]
 }
