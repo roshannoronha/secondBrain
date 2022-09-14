@@ -1,3 +1,9 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheckDictionary": [
+    " in scientis",
+    "nd this re",
+    "instead of ",
+    "\". But what"
+  ]
 }

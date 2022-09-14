@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "main/TEDxSFU 2022 - Reflection/Talk Versions/8 Min Draft.md",
+            "file": "main/TEDxSFU 2022 - Reflection/Talk Versions/8 Min Draft - V1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "3f48a74af2b99a2b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "main/TEDxSFU 2022 - Reflection/Talk Versions/8 Min Draft With Feedback (BC Govt Example).md",
             "mode": "source",
             "source": false
           }
@@ -88,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/TEDxSFU 2022 - Reflection/Talk Versions/8 Min Draft.md",
+                "file": "main/TEDxSFU 2022 - Reflection/Talk Versions/8 Min Draft With Feedback (BC Govt Example).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main/TEDxSFU 2022 - Reflection/Talk Versions/8 Min Draft.md",
+                "file": "main/TEDxSFU 2022 - Reflection/Talk Versions/8 Min Draft With Feedback (BC Govt Example).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main/TEDxSFU 2022 - Reflection/Talk Versions/8 Min Draft.md"
+                "file": "main/TEDxSFU 2022 - Reflection/Talk Versions/8 Min Draft With Feedback (BC Govt Example).md"
               }
             }
           }
@@ -136,20 +148,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1264.5,
+    "width": 1010.61962890625,
     "collapsed": true
   },
-  "active": "75be2f818947103c",
+  "active": "3f48a74af2b99a2b",
   "lastOpenFiles": [
+    "main/TEDxSFU 2022 - Reflection/Talk Versions/8 Min Draft - V1.md",
+    "main/TEDxSFU 2022 - Reflection/Talk Versions/8 Min Draft With Feedback (BC Govt Example).md",
+    "Pasted image 20220909150027.png",
+    "Pasted image 20220908195013.png",
+    "Pasted image 20220908193615.png",
+    "Pasted image 20220905161545.png",
     "main/Lab Automation.md",
-    "main/TEDxSFU 2022 - Reflection/Talk Versions/8 Min Draft.md",
     "main/TEDxSFU 2022 - Reflection/Ideas/Automation Topics.md",
     "main/TEDxSFU 2022 - Reflection/Talk Versions/3 Min Draft.md",
-    "main/TEDxSFU 2022 - Reflection/Core Ideas/Automation will change our society and it is through relection that we can determine whether this change will be positive for all or just for a select few..md",
-    "main/TEDxSFU 2022 - Reflection/Talk Versions/3 Min Pitch.md",
-    "Technological Due Process.md",
-    "main/Useful Articles.md",
-    "main/TEDxSFU 2022 - Reflection/Ideas/Social Inequalities/Healthcare and Social Services.md",
-    "No Fly List.md"
+    "main/TEDxSFU 2022 - Reflection/Core Ideas/Automation will change our society and it is through relection that we can determine whether this change will be positive for all or just for a select few..md"
   ]
 }
